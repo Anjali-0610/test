@@ -1,4 +1,3 @@
 shreyians  se github
 second line add karte hai
-third line mein change kara hai merge conflict ke liye in probability
-
+third line ko merge conflict ke  liye edit kara hai master branch mein
